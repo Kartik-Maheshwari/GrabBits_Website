@@ -37,6 +37,13 @@ a {
 	font-weight: 750;
 }
 
+.nav__menu{
+	/* background-color: yellow; */
+	padding-top: 1rem;
+	/* padding-right: 2rem; */
+	/* text-align: center; */
+}
+
 .nav__list {
 	display: flex;
 	gap: 2rem;
